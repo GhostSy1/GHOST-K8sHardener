@@ -1,6 +1,6 @@
 # GHOST-K8sHardener Architecture
 
-## Core Design
+## Overview
 `GHOST-K8sHardener` is built under the Ghost-SY1 v4.0-PRO standard. It operates locally on operator-provided files or directories, calculates SHA-256 evidence hashes, evaluates security rule sets, and outputs structured audit data.
 
 ```mermaid
